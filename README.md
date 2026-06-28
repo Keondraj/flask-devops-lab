@@ -1,4 +1,4 @@
-# Flask DevOps Lab
+# Flask DevOps Lab B
 ## Usage
 ```
 source .venv/bin/activate
